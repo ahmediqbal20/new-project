@@ -1,4 +1,5 @@
-﻿package com.example.cryptobot;
+// version 2
+package com.example.cryptobot;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
@@ -35,3 +36,4 @@ public class MainApp extends Application {
         launch(args);
     }
 }
+
