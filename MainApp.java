@@ -1,4 +1,4 @@
-// version 2
+// version 3
 package com.example.cryptobot;
 
 import javafx.application.Application;
@@ -36,4 +36,5 @@ public class MainApp extends Application {
         launch(args);
     }
 }
+
 
